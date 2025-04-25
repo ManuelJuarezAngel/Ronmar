@@ -3,7 +3,7 @@ import React, { useState, useEffect } from 'react';
 export default function Navbar({ setTheme, theme }) {
 
     const toggleTheme = () => {
-        setTheme(theme === "winter" ? "dark" : "winter");
+        setTheme(theme === "winter" ? "business" : "winter");
     };
 
     const [isScrolled, setIsScrolled] = useState(false);
@@ -42,9 +42,9 @@ export default function Navbar({ setTheme, theme }) {
                         className="menu menu-sm dropdown-content rounded z-1 mt-3 w-52 p-2 bg-white/10 backdrop-blur-md border border-white/20 shadow-lg">
                         <li><a href='#hero'>Home</a></li>
                         <li><a href='#servicios'>Servicios</a></li>
-                        <li><a>Nosotros</a></li>
-                        <li><a>Proyectos</a></li>
-                        <li><a>Contacto</a></li>
+                        <li><a href='#nosotros'>Nosotros</a></li>
+                        <li><a href='#proyectos'>Proyectos</a></li>
+                        <li><a href='#contacto'>Contacto</a></li>
                     </ul>
                 </div>
 
@@ -64,7 +64,7 @@ export default function Navbar({ setTheme, theme }) {
                     <a className="tooltip" data-tip="Tema">
                         <label className="swap swap-rotate">
 
-                            <input type="checkbox" className="theme-controller" value={theme === 'dark'} onChange={toggleTheme} />
+                            <input type="checkbox" className="theme-controller" value={theme === 'business'} onChange={toggleTheme} />
 
 
                             <svg

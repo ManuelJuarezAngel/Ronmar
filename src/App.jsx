@@ -43,7 +43,7 @@ function App() {
   }
 
   return (
-    <div className={`relative min-h-screen ${theme === "dark" ? "text-white bg-gray-900" : "bg-base-200"}`}>
+    <div className={`relative min-h-screen ${theme === "business" ? "text-white bg-gray-900" : "bg-base-200"}`}>
       <ServiceStructuredData />
       <Navbar setTheme={setTheme} theme={theme} />
       <Hero />
