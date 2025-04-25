@@ -9,15 +9,15 @@ export default function Contacto() {
                     <h2 className="text-4xl font-bold pb-7 text-center">Contáctanos</h2>
                     <form className="space-y-5 w-full">
                         <div className="form-control">
-                            <label className="floating-label">
-                                <input type="text" placeholder="Nombre" className="input input-md w-full" required />
+                            <label className="floating-label" for="nombre">
+                                <input type="text" placeholder="Nombre" id="nombre" className="input input-md w-full" required />
                                 <span>Tu Nombre</span>
                             </label>
                         </div>
 
-                        <label className="floating-label">
+                        <label className="floating-label" for="email">
                             <span>Tu correo</span>
-                            <input type="email" placeholder="mail@site.com" className="input input-md validator w-full" required />
+                            <input type="email" placeholder="mail@site.com" className="input input-md validator w-full" id="email" required />
                             <div className="validator-hint">Ingresa un correo valido</div>
                         </label>
 

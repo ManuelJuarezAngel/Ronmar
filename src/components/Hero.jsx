@@ -30,7 +30,7 @@ export default function Hero() {
                             Especialistas en <strong>infraestructura crítica</strong> y <strong>mantenimiento de centros de datos</strong>. Con más de 14 años de experiencia, en RONMAR ayudamos a empresas en México a garantizar la <strong>continuidad operativa</strong> mediante <strong>soluciones tecnológicas confiables</strong> y personalizadas.
                         </p>
 
-                        <a className="btn btn-primary" href="#servicios">
+                        <a className="btn btn-primary" href="#servicios" aria-labelledby="enlace">
                             Conocer mas
                             <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" strokeWidth={1.5} stroke="currentColor" className="size-4">
                                 <path strokeLinecap="round" strokeLinejoin="round" d="m19.5 8.25-7.5 7.5-7.5-7.5" />

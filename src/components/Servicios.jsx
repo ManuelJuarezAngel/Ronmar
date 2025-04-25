@@ -1,7 +1,7 @@
 
 export default function Servicios() {
     return (
-        <section className="w-full flex justify-center bg-base-200 p-3" id="servicios">
+        <section className="w-full justify-center bg-base-200 p-3 overflow-x-hidden" id="servicios">
             <div
                 aria-hidden="true"
                 className="absolute inset-x-0 -top-100 z-10 transform-gpu overflow-hidden blur-3xl sm:top-220"
