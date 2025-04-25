@@ -21,7 +21,7 @@ export default function Servicios() {
                     <div className="card rounded bg-white/10 backdrop-blur-md border border-white/30 shadow-lg" data-aos="fade-down">
                         <div className="card-body">
                             <div className="flex justify-center items-center">
-                                <img src="/img/electricidad.png" className="max-w-30" alt="infraestructura eléctrica crítica" />
+                                <img src="/img/electricidad.webp" className="max-w-30" alt="infraestructura eléctrica crítica" />
                             </div>
                             <br />
                             <h3 className="card-title border-b border-gray-300 pb-2 text-center">Diseño e instalación de infraestructura eléctrica crítica</h3>
@@ -32,7 +32,7 @@ export default function Servicios() {
                     <div className="card rounded bg-white/10 backdrop-blur-md border border-white/30 shadow-lg" data-aos="fade-down">
                         <div className="card-body">
                             <div className="flex justify-center items-center">
-                                <img src="/img/mantenimiento.png" className="max-w-30" alt="Mantenimiento preventivo y correctivo" />
+                                <img src="/img/mantenimiento.webp" className="max-w-30" alt="Mantenimiento preventivo y correctivo" />
                             </div>
                             <br />
                             <h3 className="card-title border-b border-gray-300 pb-2 text-center">Mantenimiento preventivo y correctivo especializado</h3>
@@ -43,7 +43,7 @@ export default function Servicios() {
                     <div className="card rounded bg-white/10 backdrop-blur-md border border-white/30 shadow-lg" data-aos="fade-down">
                         <div className="card-body">
                             <div className="flex justify-center items-center">
-                                <img src="/img/vigilancia.png" className="max-w-30" alt="monitoreo de sistemas contra incendios" />
+                                <img src="/img/vigilancia.webp" className="max-w-30" alt="monitoreo de sistemas contra incendios" />
                             </div>
                             <br />
                             <h3 className="card-title border-b border-gray-300 pb-2 text-center">Implementación y monitoreo de sistemas contra incendios</h3>
@@ -54,7 +54,7 @@ export default function Servicios() {
                     <div className="card rounded bg-white/10 backdrop-blur-md border border-white/30 shadow-lg" data-aos="fade-down">
                         <div className="card-body">
                             <div className="flex justify-center items-center">
-                                <img src="/img/proteger.png" className="max-w-30" alt="seguridad electrónica" />
+                                <img src="/img/proteger.webp" className="max-w-30" alt="seguridad electrónica" />
                             </div>
                             <br />
                             <h3 className="card-title border-b border-gray-300 pb-2 text-center">Sistemas de seguridad electrónica y control de accesos</h3>
@@ -65,7 +65,7 @@ export default function Servicios() {
                     <div className="card rounded bg-white/10 backdrop-blur-md border border-white/30 shadow-lg" data-aos="fade-down">
                         <div className="card-body">
                             <div className="flex justify-center items-center">
-                                <img src="/img/infraestructura.png" className="max-w-30" alt="infraestructura tecnológica" />
+                                <img src="/img/infraestructura.webp" className="max-w-30" alt="infraestructura tecnológica" />
                             </div>
                             <br />
                             <h3 className="card-title border-b border-gray-300 pb-2 text-center">Consultoría y mejora de infraestructura tecnológica</h3>
@@ -76,7 +76,7 @@ export default function Servicios() {
                     <div className="card rounded bg-white/10 backdrop-blur-md border border-white/30 shadow-lg" data-aos="fade-down">
                         <div className="card-body">
                             <div className="flex justify-center items-center">
-                                <img src="/img/auditoria.png" className="max-w-30" alt="Auditorías técnicas y reportes de confiabilidad operativa" />
+                                <img src="/img/auditoria.webp" className="max-w-30" alt="Auditorías técnicas y reportes de confiabilidad operativa" />
                             </div>
                             <br />
                             <h3 className="card-title border-b border-gray-300 pb-2 text-center">Auditorías técnicas y reportes de confiabilidad operativa</h3>

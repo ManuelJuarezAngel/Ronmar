@@ -3,7 +3,7 @@ export default function Nosotros() {
         <section className="w-full flex justify-center bg-base-200 p-3" id="nosotros">
             <div className="max-w-7xl flex justify-center items-center gap-4 flex-col sm:flex-col lg:flex-row z-20 my-10">
                 <div className="w-[100%] lg:w-[50%] lg:p-5 p-1 pb-5 flex justify-center items-center" data-aos="fade-up-right">
-                    <img src="/img/logo.png" alt="logo" className="w-80" />
+                    <img src="/img/logo.webp" alt="logo" className="w-80" />
                 </div>
                 <div className="w-[100%] lg:w-[50%] p-5" data-aos="fade-up-left">
                     <h2 className="pb-2 text-4xl font-bold">Nosotros</h2> <br />

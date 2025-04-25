@@ -2,7 +2,7 @@ export default function Footer() {
     return (
         <footer className="footer sm:footer-horizontal bg-neutral-800 text-white p-10">
             <aside>
-                <img src="/img/logo.png" alt="logo" className="max-w-25" />
+                <img src="/img/logo.webp" alt="logo" className="max-w-25" />
                 <p>
                     <span className="font-bold">Copyright © 2025 - All right reserved</span>
                     <br />

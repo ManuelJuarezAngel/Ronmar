@@ -3,7 +3,7 @@ export default function Contacto() {
         <section className="w-full flex justify-center bg-base-200 p-3 Z-50" id="contacto">
             <div className="w-full max-w-3xl rounded bg-white/10 backdrop-blur-md border border-white/30 shadow-lg p-2 z-20 flex gap-1" data-aos="zoom-in">
                 <div className="w-[100%] lg:w-[50%] md:block hidden">
-                    <img src="/img/form.png" alt="form-img" className="rounded"/>
+                    <img src="/img/form.webp" alt="form-img" className="rounded"/>
                 </div>
                 <div className="w-[100%] lg:w-[50%] flex justify-center items-center flex-col p-4">
                     <h2 className="text-4xl font-bold pb-7 text-center">Contáctanos</h2>
